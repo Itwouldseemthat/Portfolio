@@ -1,0 +1,103 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background: rgb(43, 43, 43);
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.header {
+    color: white;
+    background: black;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    box-shadow: 1px 0px 8px 6px rgb(0, 0, 0);
+    margin-bottom: 50px;
+}
+
+.headerText {
+    display: flex;
+    border: 1px solid white;
+    padding: 30px;
+}
+
+.section {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.content {
+    background: black;
+    padding: 20px;
+}
+
+.nav {
+    display: flex;
+    position: sticky;
+    top: 0;
+    background: black;
+    /* margin-bottom: 20px; */
+}
+
+.wrap {
+    padding: 20px;
+    border: 1px solid white;
+    width: 600px;
+    font-size: 32px;
+    color: white;
+}
+
+.framework {
+    color: white;
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+    border-bottom: 1px dashed white;
+    padding: 40px;
+}
+
+.project {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.text {
+    font-size: 22px;
+    color: white;
+    width: 600px;
+}
+/* <div class="nav">
+<div class="project wrap">
+    <div class="title">
+        <a class="projectText">Projects</a>
+    </div>
+</div>
+<div class="about wrap">
+    <div class="title">
+        <a class="aboutText">About</a>
+    </div>
+</div>
+</div>
+<div class="content">
+<div class="wrap">
+    <div class="title">
+        <a href="https://itwouldseemthat.github.io/shelter-landing/"  rel="noopener noreferrer" target="_blank" class="text projectName">Shelter-landing</a>
+    </div>
+</div>
+<div class="wrap">
+    <div class="title">
+        <a class="text info">Layot with scrollable carousel</a>
+    </div>
+</div>
+</div> */
+
+
