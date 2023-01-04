@@ -74,6 +74,7 @@ body {
     display: flex;
     justify-content: center;
     padding: 30px;
+    gap: 20px;
 }
 
 .text {
@@ -81,29 +82,7 @@ body {
     color: white;
     width: 600px;
 }
-/* <div class="nav">
-<div class="project wrap">
-    <div class="title">
-        <a class="projectText">Projects</a>
-    </div>
-</div>
-<div class="about wrap">
-    <div class="title">
-        <a class="aboutText">About</a>
-    </div>
-</div>
-</div>
-<div class="content">
-<div class="wrap">
-    <div class="title">
-        <a href="https://itwouldseemthat.github.io/shelter-landing/"  rel="noopener noreferrer" target="_blank" class="text projectName">Shelter-landing</a>
-    </div>
-</div>
-<div class="wrap">
-    <div class="title">
-        <a class="text info">Layot with scrollable carousel</a>
-    </div>
-</div>
-</div> */
+
+
 
 
