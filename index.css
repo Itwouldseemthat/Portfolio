@@ -120,5 +120,15 @@ body {
         display: flex;
         justify-content: center;
     }
+    .name {
+        font-weight: bold;
+        font-size: 24px;
+    }
+    .nav {
+        display: none;
+    }
+    .content {
+        padding: 0;
+    }
 }
 
