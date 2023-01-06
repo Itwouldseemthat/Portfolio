@@ -123,6 +123,7 @@ span {
         width: 90%;
         display: flex;
         justify-content: center;
+        margin-left: 22px;
     }
     .name {
         font-weight: bold;
