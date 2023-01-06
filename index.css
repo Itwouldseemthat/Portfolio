@@ -74,6 +74,10 @@ body {
     padding: 40px;
 }
 
+span {
+    margin-left: 10px;
+    display: none;
+}
 .project {
     display: flex;
     justify-content: center;
@@ -129,6 +133,12 @@ body {
     }
     .content {
         padding: 0;
+    }
+    span {
+        display: flex;
+    }
+    .framework {
+        text-decoration: none;
     }
 }
 
